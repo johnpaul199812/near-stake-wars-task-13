@@ -1,1 +1,1 @@
-# near-stake-wars-task-13
+# near-stake-wars-task-13 proof
